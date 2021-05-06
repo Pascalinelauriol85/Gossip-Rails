@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Crée un gossip
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Les utilisateurs peuvent créer des potins : "askip john est célib hihi"
+Les utilisateurs, en créant des potins, peuvent mettre un ou plusieurs tags sur les potins : #romance
+Les utilisateurs peuvent commenter des potins : "ahiii j'savé pa lol ptdr 💁‍♂️"
+Et puisque ton appli doit respecter les standards de l'industrie, on va faire en sorte qu'il soit possible aussi de commenter des commentaires.
+Les utilisateurs peuvent liker des potins.
+Les utilisateurs peuvent contacter leur commères favoris en MP pour obtenir des exclus mondiales.
